@@ -1,0 +1,12 @@
+Local-Qwen-main filter=lfs diff=lfs merge=lfs -text
+test.py filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+download filter=lfs diff=lfs merge=lfs -text
+frontend filter=lfs diff=lfs merge=lfs -text
+qw_model_file filter=lfs diff=lfs merge=lfs -text
+go.sum filter=lfs diff=lfs merge=lfs -text
+README-en.md filter=lfs diff=lfs merge=lfs -text
+README-jp.md filter=lfs diff=lfs merge=lfs -text
+backend filter=lfs diff=lfs merge=lfs -text
+demo filter=lfs diff=lfs merge=lfs -text
+go.mod filter=lfs diff=lfs merge=lfs -text
